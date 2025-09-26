@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-family: 'Exo 2',sans-serif;
+    letter-spacing: 1px;
+    margin-top: 2px;
+
+}
+
+.header{
+    background-color: black;
+}
+
+.text a{
+    border: 2px solid white;
+    width: 323px;
+   text-align: center;
+}
